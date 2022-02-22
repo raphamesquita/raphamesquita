@@ -7,7 +7,7 @@
   ## 
   
   <div style="display: inline_block"><br>
-      <img align="right" alt="sailor-moon" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/6rHfF5HqcnQpq/giphy.gif?cid=ecf05e47jqqcafvzjpx41gm9vd85iezk5fy2v9qwobdk5yax&rid=giphy.gif&ct=g?width=676&height=676">
+      <img align="right" alt="sailor-moon" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/a52300d0a18c60904f1b9197fbf3f02b/tumblr_mjzg63PT211rfukgso4_250.gifv">
 </div>
   
   <div align="center">
