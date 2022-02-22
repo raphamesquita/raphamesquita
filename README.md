@@ -18,7 +18,7 @@
  ##
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="sailor-moon" height="120" style="border-radius:15px50px;" src="https://media1.giphy.com/media/NACJsYCa3QPL2/giphy.gif?cid=ecf05e47czii9sprzwzkiklo154o1fp4br0nnwmrn5i6msdq&rid=giphy.gif&ct=g">
+  <img align="right" alt="sailor-moon" height="120" style="border-radius: 50px;" src="https://media1.giphy.com/media/NACJsYCa3QPL2/giphy.gif?cid=ecf05e47czii9sprzwzkiklo154o1fp4br0nnwmrn5i6msdq&rid=giphy.gif&ct=g">
 
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
